@@ -199,6 +199,7 @@ import static com.prolificinteractive.materialcalendarview.MaterialCalendarView.
     mCircleDrawable.setBounds(circleDrawableRect);
 
     super.onDraw(canvas);
+    //test
   }
 
   private void regenerateBackground() {
